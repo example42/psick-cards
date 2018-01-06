@@ -89,7 +89,7 @@ Two or more players play in free for all mode with 20 cards in a non competitive
 
 ### Dice Duel - CfgMgmt Camp 2018 edition
 
-Played with a single POC Decks (10 cards, hey first 10 ones all different).
+Played with a single POC Deck (10 cards, the first 10 ones, all different).
 
 Competitive with Host, two players only: someone from example42 plays the host and provides the cards, challenger comes to the booth to claim victory and free cards.
 
@@ -100,7 +100,9 @@ At the end the challenger keeps all the cards it has gained, but if behaves nice
 
 ### Wild Beer Fight
 
-Party mode: any number of players, the more the better. Non Competitive Team Deatchmatch. Mandatory stealing, active pile dice pick. Wins the team with more cards. Losing team payes the beer.
+Party mode: any number of players, around a pub's table, the more the better. Non Competitive Team Deatchmatch. Mandatory stealing, active pile dice pick, unless you get mad and go for an always pick.
+
+Wins the team whose members have gathered more cards. Losing team pays the beer.
 
 Occasional rules breaking allowed.
 
